@@ -1,6 +1,6 @@
 # #Resume Paper Type
 <details>
-<summary><h4>Resume-TH</h4></summary> 
+<summary><h4>Resume-TH Click Here !</h4></summary> 
 <br><br>
 <pre>
   <p align="center">
@@ -9,7 +9,7 @@
 </pre>
 </details>
 <details>
-<summary><h4>Resume-EN</h4></summary> 
+<summary><h4>Resume-EN Click Here !</h4></summary> 
 <br><br>
 <pre>
    <p align="center">
